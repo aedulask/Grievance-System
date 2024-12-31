@@ -1,0 +1,10 @@
+.completed-grievances {
+    padding: 20px;
+  }
+  
+  .grievances-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  

@@ -1,0 +1,23 @@
+/* OfficerNav.css */
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: #2a2a72;
+  padding: 10px 0;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.navbar a:hover {
+  background-color: #4444aa;
+}
+
+.navbar a.active {
+  background-color: #1a1a5c;
+}
